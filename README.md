@@ -1,8 +1,8 @@
-# HearthCircle
+# CircleSync
 
-HearthCircle is a community-first savings circle platform built on Stacks. It modernizes rotating savings groups with transparent rules, trusted payouts, and member reputation.
+CircleSync is a community-first savings circle platform built on Stacks. It modernizes rotating savings groups with transparent rules, trusted payouts, and member reputation.
 
-## Why HearthCircle
+## Why CircleSync
 
 - **Circle management** for creating, joining, and running shared savings pools.
 - **Automated payouts** with predictable schedules and transparent records.
@@ -19,8 +19,8 @@ HearthCircle is a community-first savings circle platform built on Stacks. It mo
 ### Install
 
 ```bash
-git clone https://github.com/floxxih/savings-circle-net.git
-cd savings-circle-net
+git clone https://github.com/stableronaldox/circle-sync.git
+cd circle-sync
 npm install
 ```
 
