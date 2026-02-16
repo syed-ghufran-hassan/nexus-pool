@@ -1,13 +1,13 @@
-# HearthCircle
+# NexusPool
 
-HearthCircle is a community-first savings circle platform built on Stacks. It modernizes rotating savings groups with transparent rules, trusted payouts, and member reputation.
+NexusPool is a community-first savings circle platform built on Stacks. It modernizes rotating savings groups with transparent rules, trusted payouts, and member reputation at the nexus of financial collaboration.
 
-## Why HearthCircle
+## Why NexusPool
 
-- **Circle management** for creating, joining, and running shared savings pools.
-- **Automated payouts** with predictable schedules and transparent records.
-- **Trust signals** via reputation, participation history, and badges.
-- **Wallet-ready** flows for Stacks-native deposits and withdrawals.
+- **Circle management** for creating, joining, and running shared savings pools
+- **Automated payouts** with predictable schedules and transparent records
+- **Trust signals** via reputation, participation history, and badges
+- **Wallet-ready** flows for Stacks-native deposits and withdrawals
 
 ## Getting Started
 
@@ -19,8 +19,8 @@ HearthCircle is a community-first savings circle platform built on Stacks. It mo
 ### Install
 
 ```bash
-git clone https://github.com/floxxih/savings-circle-net.git
-cd savings-circle-net
+git clone https://github.com/doej/nexus-pool.git
+cd nexus-pool
 npm install
 ```
 
@@ -41,7 +41,7 @@ clarinet check
 ## Project Layout
 
 ```
-savings-circle-net/
+nexus-pool/
 ├── contracts/        # Clarity smart contracts
 │   ├── stacksusu-core-v7.clar
 │   ├── stacksusu-escrow-v7.clar
@@ -78,7 +78,15 @@ savings-circle-net/
 - **Stacks.js**: Seamless blockchain integration
 - **Responsive Design**: Mobile-first, accessible UI
 
-See [Frontend Architecture Guide](docs/FRONTEND_ARCHITECTURE.md) for detailed documentation.
+## Core Features
+
+- Audit Logging for transparency
+- Circle Discovery for finding savings groups
+- Improved Error Messages for better UX
+- API Documentation for developers
+- Integration Tests for reliability
+- Recurring Contributions for automated savings
+- Notifications System for staying informed
 
 ## Contributing
 
@@ -87,10 +95,3 @@ See `CONTRIBUTING.md` for local setup, testing, and contribution guidelines.
 ## License
 
 MIT
-- [Audit Logging](./docs/AUDIT_LOGS.md)
-- [Circle Discovery](./docs/FEATURE_52.md)
-- [Improve Error Messages](./docs/FEATURE_51.md)
-- [API Documentation](./docs/FEATURE_50.md)
-- [Integration Tests](./docs/FEATURE_49.md)
-- [Recurring Contributions](./docs/FEATURE_48.md)
-- [Notifications System](./docs/FEATURE_47.md)
